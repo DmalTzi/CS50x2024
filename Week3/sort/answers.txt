@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: I try to run sorted50000.txt and this file is faster than sort1, because if data is sorted complexity is O(n)
+
+sort2 uses: Merge Sort
+
+How do you know?: I know this first because when I run this file all data's file, this file is faster and complexity this algorithm is O(n log n), that mean this is merge sort is faster than bubble and selection
+
+sort3 uses: Selection Sort
+
+How do you know?: The last one, this algorithm slowest than all algorithm and complexity is O(n^2)
